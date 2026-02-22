@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Which keyword is used to define a function in Python?",
+    "options": ["func", "define", "def", "function"],
+    "answer": 3
+  },
+  {
+    "question": "Which data type is immutable in Python?",
+    "options": ["List", "Dictionary", "Set", "Tuple"],
+    "answer": 4
+  },
+  {
+    "question": "What does SQL stand for?",
+    "options": ["Structured Query Language", "Simple Query Language", "Sequential Query Language", "Server Query Language"],
+    "answer": 1
+  },
+  {
+    "question": "Which data structure works on LIFO principle?",
+    "options": ["Queue", "Stack", "Tree", "Graph"],
+    "answer": 2
+  },
+  {
+    "question": "Which HTTP method is used to update data?",
+    "options": ["GET", "POST", "PUT", "FETCH"],
+    "answer": 3
+  },
+  {
+    "question": "Which company provides AWS cloud services?",
+    "options": ["Google", "Microsoft", "Amazon", "IBM"],
+    "answer": 3
+  },
+  {
+    "question": "Which SQL clause is used to filter records?",
+    "options": ["ORDER BY", "GROUP BY", "WHERE", "SELECT"],
+    "answer": 3
+  },
+  {
+    "question": "Which Python module is used to work with JSON data?",
+    "options": ["json", "os", "sys", "random"],
+    "answer": 1
+  },
+  {
+    "question": "What is the time complexity of binary search?",
+    "options": ["O(n)", "O(log n)", "O(n log n)", "O(1)"],
+    "answer": 2
+  },
+  {
+    "question": "Which of the following is a NoSQL database?",
+    "options": ["MySQL", "PostgreSQL", "MongoDB", "Oracle"],
+    "answer": 3
+  }
+]
